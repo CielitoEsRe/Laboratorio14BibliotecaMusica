@@ -112,7 +112,7 @@
             // 
             // buttonAgregarCancion
             // 
-            this.buttonAgregarCancion.Location = new System.Drawing.Point(461, 373);
+            this.buttonAgregarCancion.Location = new System.Drawing.Point(122, 422);
             this.buttonAgregarCancion.Name = "buttonAgregarCancion";
             this.buttonAgregarCancion.Size = new System.Drawing.Size(102, 41);
             this.buttonAgregarCancion.TabIndex = 8;
@@ -122,7 +122,7 @@
             // 
             // buttonGuardar
             // 
-            this.buttonGuardar.Location = new System.Drawing.Point(624, 373);
+            this.buttonGuardar.Location = new System.Drawing.Point(922, 394);
             this.buttonGuardar.Name = "buttonGuardar";
             this.buttonGuardar.Size = new System.Drawing.Size(107, 41);
             this.buttonGuardar.TabIndex = 9;
@@ -132,7 +132,7 @@
             // 
             // buttonEditar
             // 
-            this.buttonEditar.Location = new System.Drawing.Point(461, 471);
+            this.buttonEditar.Location = new System.Drawing.Point(927, 459);
             this.buttonEditar.Name = "buttonEditar";
             this.buttonEditar.Size = new System.Drawing.Size(102, 40);
             this.buttonEditar.TabIndex = 10;
@@ -142,11 +142,11 @@
             // 
             // buttonBuscar
             // 
-            this.buttonBuscar.Location = new System.Drawing.Point(624, 471);
+            this.buttonBuscar.Location = new System.Drawing.Point(349, 362);
             this.buttonBuscar.Name = "buttonBuscar";
             this.buttonBuscar.Size = new System.Drawing.Size(107, 40);
             this.buttonBuscar.TabIndex = 11;
-            this.buttonBuscar.Text = "Buscar";
+            this.buttonBuscar.Text = "Buscar Artista";
             this.buttonBuscar.UseVisualStyleBackColor = true;
             this.buttonBuscar.Click += new System.EventHandler(this.buttonBuscar_Click);
             // 
@@ -192,9 +192,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(27, 367);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(80, 16);
+            this.label5.Size = new System.Drawing.Size(88, 16);
             this.label5.TabIndex = 16;
-            this.label5.Text = "Buscar rtista";
+            this.label5.Text = "Buscar artista";
             // 
             // label6
             // 
